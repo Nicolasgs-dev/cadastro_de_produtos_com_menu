@@ -1,6 +1,6 @@
 # cadastro_de_produtos_com_menu.py
 
-# menu dos produtos
+
 menu = """
 === Menu ===
 1- Cadastrar produtos
